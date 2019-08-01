@@ -1,2 +1,5 @@
 # ml-ai-roadmap
-![](/images/roadmap.png)
+![](/images/Body.png)
+![](/images/ML.png)
+![](/images/Unsupervised.png)
+![](/images/Responsibilities.png)
